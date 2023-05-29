@@ -1,2 +1,2 @@
 # Relaciones_De_Clases
-hemos aprendido a usar las relaciones de clases y solucionando el dilema del diamante, asi mismo no olvidaremos que el padre puede ser mega importante en la implementacion del codigo.
+hemos aprendido a usar las relaciones de clases y solucionando el dilema del diamante,y el uso importante de la INTERFAZ , que permite tener almacenado en listas, foreach, entre otros.
